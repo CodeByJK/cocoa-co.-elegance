@@ -1,14 +1,16 @@
-# Welcome to your Lovable project
+# Cocoa & Co. Elegance
+
+Create a modern and elegant webshop for premium chocolate brand Cocoa & Co. Include Home, Shop (with filters for chocolate type, product type, price), Product Details, About Us, Contact, and Cart. Use a warm, luxurious palette of cream, dark brown, beige, and subtle gold accents. Include product search, cart drawer/page, quantity controls, and mock checkout.
 
 This project was built with [Lovable](https://lovable.dev).
 
 ## Build with Lovable
 
-Open your project in the [Lovable editor](https://lovable.dev) and keep building.
+Continue developing this project in the [Lovable editor](https://lovable.dev/projects/14207357-28b3-4fc8-9f1e-0c8afc88aa9a).
 
 - **Ship faster**: describe what you want to build and Lovable handles the code.
-- **Stay in sync**: connect the project to GitHub and every change made in Lovable is committed straight to your repository.
-- **Full ownership**: this code is yours. Push to your repository and your changes sync back into Lovable, ready for your next prompt.
+- **Stay in sync**: every change made in Lovable is committed straight to this repository.
+- **Full ownership**: this code is yours. Push to `main` on GitHub and your changes sync back into Lovable, ready for your next prompt.
 
 ## Development
 
@@ -20,10 +22,3 @@ cd <repository-name>
 npm i
 npm run dev
 ```
-
-## Built with
-
-- TanStack Start
-- TypeScript
-- React
-- Tailwind CSS
