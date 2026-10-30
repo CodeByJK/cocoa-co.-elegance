@@ -1,6 +1,7 @@
 # Cocoa & Co. Elegance
 
-Vibecoding session 10/09/2026 Chas Academy FJS26
+Vibecoding session 10/09/2026 Chas Academy FJS26.
+
 Create a modern and elegant webshop for premium chocolate brand Cocoa & Co. Include Home, Shop (with filters for chocolate type, product type, price), Product Details, About Us, Contact, and Cart. Use a warm, luxurious palette of cream, dark brown, beige, and subtle gold accents. Include product search, cart drawer/page, quantity controls, and mock checkout.
 
 This project was built with [Lovable](https://lovable.dev).
